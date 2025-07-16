@@ -22,3 +22,13 @@ Clone the repository and install dependencies:
 git clone https://github.com/shivansh31414/automate-screenplay-_writing_ai_agent.git
 cd automate-screenplay-_writing_ai_agent
 pip install -r requirements.txt
+```
+## 📂 Project Structure
+
+automate-screenplay-_writing_ai_agent/
+├── crew_config.yaml         # Agent definitions and prompt settings
+├── screenplay_generator.py  # Entry point for CrewAI orchestration
+├── prompts/                 # Thematic prompt templates
+├── outputs/                 # Generated screenplay files
+└── README.md                # Documentation (you're reading it!)
+
