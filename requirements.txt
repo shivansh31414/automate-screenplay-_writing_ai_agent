@@ -1,3 +1,4 @@
+# INSTALLING THE REQUIRED DEPENDENCIES 
 crewai==0.28.8
 langchain==0.1.20
 openai==1.30.3
