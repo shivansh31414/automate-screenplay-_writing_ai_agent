@@ -32,3 +32,13 @@ automate-screenplay-_writing_ai_agent/
 ├── outputs/                 # Generated screenplay files
 └── README.md                # Documentation (you're reading it!)
 
+## 📖 Usage
+Customize agent roles in crew_config.yaml.
+
+Run the screenplay generator:
+
+```bash
+python screenplay_generator.py
+```
+Review generated script in the outputs/ directory.
+
